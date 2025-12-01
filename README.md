@@ -1,28 +1,21 @@
-# **…?**
+# your-username2
 
-Most things aren't meant to be found.
+I tried to take “your-username.”  
+Someone already had it.  
+So this became Version 2.
 
-This account only exists for one purpose.  
-What that is… depends on when you're reading this.
+It wasn’t the plan,  
+but it feels correct.
 
-If you're here on purpose:  
-you already know where to look.
+There isn’t much here.  
+There doesn’t need to be.
 
-If you arrived by accident:  
-there’s nothing else here.
-
----
-
-### **Status**
-`Dormant`  
-(For now.)
+If you came looking for something,  
+you already know where else to check.
 
 ---
 
-### **The Project**
-There is only one repository on this account.  
-It is not finished.  
-It is not abandoned.  
-It is simply **waiting**.
+### state: `v2 • idle`
+### purpose: `unspecified`
 
-> _"Not everything hidden is lost."_  
+> _Sometimes the second choice becomes the right one._
