@@ -1,16 +1,28 @@
-## Hi there 👋
+# **…?**
 
-<!--
-**your-username2/your-username2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most things aren't meant to be found.
 
-Here are some ideas to get you started:
+This account only exists for one purpose.  
+What that is… depends on when you're reading this.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're here on purpose:  
+you already know where to look.
+
+If you arrived by accident:  
+there’s nothing else here.
+
+---
+
+### **Status**
+`Dormant`  
+(For now.)
+
+---
+
+### **The Project**
+There is only one repository on this account.  
+It is not finished.  
+It is not abandoned.  
+It is simply **waiting**.
+
+> _"Not everything hidden is lost."_  
