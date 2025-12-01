@@ -1,7 +1,7 @@
 # your-username2
 
 I tried to take “your-username.”  
-Someone already had it.  
+GitHub dint let me.  
 So this became Version 2.
 
 It wasn’t the plan,  
